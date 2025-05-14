@@ -19,29 +19,55 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        After graduating with a degree in{" "}
-        <span className="font-medium">Insurance</span>, I decided to pursue my
-        passion for programming. I enrolled in UQ and learned{" "}
-        <span className="font-medium">full-stack web development</span>.{" "}
-        <span className="italic">My favorite part of programming</span> is the
-        problem-solving aspect. I <span className="underline">love</span> the
-        feeling of finally figuring out a solution to a problem. My core stack
-        is{" "}
+        After earning my degree in{" "}
+        <span className="font-medium">Insurance</span>, I decided to follow my
+        passion for technology and pursued a{" "}
+        <span className="font-medium">Master of Information Technology</span> at{" "}
+        <span className="font-medium">The University of Queensland</span>. Since then,
+        I've been working professionally as a{" "}
+        <span className="font-medium">web developer</span>, building full-stack
+        applications with a focus on{" "}
+        <span className="italic">clean architecture, performance, and user experience</span>.
+      </p>
+
+      <p className="mb-3">
+        I have hands-on experience in developing and maintaining real-world web
+        applications, including building an entire{" "}
+        <span className="font-medium">CMS-based website</span>{" "}
+        <a
+          href="https://www.adatop.com.au"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-blue-500 hover:text-blue-700 transition-colors"
+        >
+          (adatop.com.au)
+        </a>{" "}
+        from scratch, and
+        optimizing e-commerce platforms. My core tech stack includes{" "}
         <span className="font-medium">
           React, Next.js, Node.js, and MongoDB
         </span>
-        . I am also familiar with TypeScript and JAVA. I am always looking to
-        learn new technologies. I am currently looking for a{" "}
-        <span className="font-medium">full-time position</span> as a software
-        developer.
+        , and I also enjoy working with{" "}
+        <span className="font-medium">TypeScript, Java</span>, and cloud tools like{" "}
+        <span className="font-medium">AWS and Docker</span>.
+      </p>
+
+      <p className="mb-3">
+        <span className="italic">What I love most about programming</span> is the
+        problem-solving process — the challenge of breaking down complex
+        requirements and the satisfaction of building solutions that just work.
+        Currently, I'm looking for a{" "}
+        <span className="font-medium">full-time front-end or full-stack web
+        development role</span> in Australia, where I can continue to grow,
+        contribute to meaningful projects, and stay on the cutting edge of modern
+        web technologies.
       </p>
 
       <p>
-        <span className="italic">When I'm not coding</span>, I enjoy playing
-        video games, watching movies, and playing with my dog. I also enjoy{" "}
-        <span className="font-medium">learning new things</span>. I am currently
-        learning about <span className="font-medium">AWS and Next.js</span>. I'm
-        also learning how to swimming.
+        <span className="italic">When I'm not coding</span>, you'll likely find me
+        gaming, watching sci-fi movies, exploring new tech (like{" "}
+        <span className="font-medium">AWS and Next.js</span>), or practicing
+        swimming — a skill I'm actively working on!
       </p>
     </motion.section>
   );

@@ -2,6 +2,7 @@ import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
+import {FaComputer} from "react-icons/fa6"
 
 export const links = [
   {
@@ -53,18 +54,34 @@ export const experiencesData = [
     description:
       "I learn a lot of Front end Skills by myself. My stack includes React, Next.js, TypeScript, JAVA, AWS and MongoDB. I'm open to full-time opportunities.",
     icon: React.createElement(FaReact),
-    date: "2022 - present",
+    date: "2022 - 2023",
+  },
+  {
+    title: "Front-end Developer",
+    location: "Brisbane, QLD",
+    description:
+      "Working as a front-end developer at Intelligeneer Solution, focusing on CMS integration and modern web development technologies. Building and maintaining responsive web applications.",
+    icon: React.createElement(FaComputer),
+    date: "2024 - Present",
   },
 ] as const;
 
 export const projectsData = [
+  {
+    title: "Adatop Website",
+    description:
+      "Built and deployed a company website with React and CMS integration. Focused on responsive UI, SEO, and easy content updates for non-technical staff.",
+    tags: ["React", "CMS", "JavaScript", "Responsive Design", "SEO"],
+    imageUrl: "/adatopwebsite.png",
+    links: "https://adatop.com.au",
+  },
   {
     title: "CrwnClothing",
     description:
       "I took this front-end site, turned it into full-stack and deployed it to AWS. Build a massive E-commerce app with React and Redux, Hooks, Stripewith JavaScript, and TypeScript. ",
     tags: ["React", "Node.js", "MongoDB", "AWS", "Redux"],
     imageUrl: "/crwnClothing.png",
-    links: "https://web.crwnclothzard.com/",
+    links: "https://github.com/asdfqweasd/CRWN_CLOTHING_Client",
   },
   {
     title: "EarPhone",
@@ -74,25 +91,19 @@ export const projectsData = [
     imageUrl: "/earPhone.png",
     links: "https://github.com/asdfqweasd/eCommerceEarPhone",
   },
-  // {
-  //   title: "Word Analytics",
-  //   description:
-  //     "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
-  //   tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
-  //   // imageUrl: wordanalyticsImg,
-  // },
 ];
 
 export const skillsData = [
   "HTML",
   "CSS",
   "JavaScript",
-  "JAVA",
-  "Python",
   "TypeScript",
   "React",
+  "CMS",
   "Next.js",
   "Node.js",
+  "JAVA",
+  "Python",
   "AWS",
   "Git",
   "Tailwind",
