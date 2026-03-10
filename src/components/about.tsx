@@ -19,55 +19,39 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        After earning my degree in{" "}
-        <span className="font-medium">Insurance</span>, I decided to follow my
-        passion for technology and pursued a{" "}
-        <span className="font-medium">Master of Information Technology</span> at{" "}
-        <span className="font-medium">The University of Queensland</span>. Since then,
-        I've been working professionally as a{" "}
-        <span className="font-medium">web developer</span>, building full-stack
-        applications with a focus on{" "}
-        <span className="italic">clean architecture, performance, and user experience</span>.
+        I’m a <span className="font-medium">Full-Stack Developer</span> with a{" "}
+        <span className="font-medium">Master of Information Technology</span> from{" "}
+        <span className="font-medium">The University of Queensland</span> and full Australian work rights. I build production-ready websites and web applications with a strong focus on clean UI implementation, maintainable code, and practical user experience.
       </p>
 
       <p className="mb-3">
-        I have hands-on experience in developing and maintaining real-world web
-        applications, including building an entire{" "}
-        <span className="font-medium">CMS-based website</span>{" "}
+        My recent work includes commercial and volunteer projects such as{" "}
         <a
-          href="https://www.adatop.com.au"
+          href="https://www.restosuite.com.au/"
           target="_blank"
           rel="noopener noreferrer"
           className="text-blue-500 hover:text-blue-700 transition-colors"
         >
-          (adatop.com.au)
+          RestoSuite
         </a>{" "}
-        from scratch, and
-        optimizing e-commerce platforms. My core tech stack includes{" "}
-        <span className="font-medium">
-          React, Next.js, Node.js, and MongoDB
-        </span>
-        , and I also enjoy working with{" "}
-        <span className="font-medium">TypeScript, Java</span>, and cloud tools like{" "}
-        <span className="font-medium">AWS and Docker</span>.
+        and{" "}
+        <a
+          href="https://sydneywestworshipcentre.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-blue-500 hover:text-blue-700 transition-colors"
+        >
+          Sydney West Worship Centre
+        </a>
+        , where I translated designs into responsive front-end experiences and integrated CMS platforms including <span className="font-medium">Cosmic CMS</span> and <span className="font-medium">Strapi</span> to support easy content management.
       </p>
 
       <p className="mb-3">
-        <span className="italic">What I love most about programming</span> is the
-        problem-solving process — the challenge of breaking down complex
-        requirements and the satisfaction of building solutions that just work.
-        Currently, I'm looking for a{" "}
-        <span className="font-medium">full-time front-end or full-stack web
-        development role</span> in Australia, where I can continue to grow,
-        contribute to meaningful projects, and stay on the cutting edge of modern
-        web technologies.
+        My core stack includes <span className="font-medium">React, Next.js, TypeScript, Node.js, Express, and MongoDB</span>. I also have hands-on experience with <span className="font-medium">Tailwind CSS, Redux, AWS, Shopify, Figma,</span> and modern CMS-driven workflows. I enjoy turning product requirements and UI designs into polished, user-focused digital products.
       </p>
 
       <p>
-        <span className="italic">When I'm not coding</span>, you'll likely find me
-        gaming, watching sci-fi movies, exploring new tech (like{" "}
-        <span className="font-medium">AWS and Next.js</span>), or practicing
-        swimming — a skill I'm actively working on!
+        Right now, I’m looking for a <span className="font-medium">Full-Stack Developer</span> opportunity in Australia where I can contribute to real products, keep growing technically, and deliver thoughtful web experiences end to end.
       </p>
     </motion.section>
   );

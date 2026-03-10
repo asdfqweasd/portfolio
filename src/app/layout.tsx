@@ -10,9 +10,9 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Zard | Personal Portfolio",
+  title: "Zard | Full-Stack Developer Portfolio",
   description:
-    "Zard is a freshmen trying to find a front or full-stack developer position",
+    "Full-Stack Developer based in Melbourne, building responsive web applications with React, Next.js, TypeScript, Node.js, and modern CMS platforms.",
 };
 
 export default function RootLayout({

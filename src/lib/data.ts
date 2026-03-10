@@ -33,63 +33,63 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Java Internship",
-    location: "WuHan, CN",
+    title: "Master of Information Technology",
+    location: "The University of Queensland, Brisbane, QLD",
     description:
-      "It's a 6 months of Internship.Mainly to help the team implement backend functions of administration system",
-    icon: React.createElement(CgWorkAlt),
-    date: "2021",
-  },
-  {
-    title: "Master of Degree",
-    location: "Brisbane, QLD",
-    description:
-      "As a master of Information Technology student in UQ. I try to learn IT related knowledge systematically..",
+      "Completed a Master of Information Technology and built a strong foundation in software engineering, web development, and modern application design.",
     icon: React.createElement(LuGraduationCap),
     date: "2020 - 2022",
   },
   {
-    title: "Zero To Mastery Academy",
-    location: "Udemy, QLD",
+    title: "Web Developer Intern",
+    location: "M.C.S",
     description:
-      "I learn a lot of Front end Skills by myself. My stack includes React, Next.js, TypeScript, JAVA, AWS and MongoDB. I'm open to full-time opportunities.",
-    icon: React.createElement(FaReact),
-    date: "2022 - 2023",
+      "Supported eBay platform operations, automated product data updates with Jsoup, and contributed to a measurable increase in sales performance.",
+    icon: React.createElement(CgWorkAlt),
+    date: "Apr 2023 - Jul 2023",
   },
   {
-    title: "Front-end Developer",
-    location: "Brisbane, QLD",
+    title: "Independent Technical Growth",
+    location: "Personal Projects & Continuous Learning",
     description:
-      "Working as a front-end developer at Intelligeneer Solution, focusing on CMS integration and modern web development technologies. Building and maintaining responsive web applications.",
+      "Expanded my full-stack skill set through hands-on projects using React, Next.js, TypeScript, Node.js, MongoDB, AWS, Stripe, and CMS platforms.",
+    icon: React.createElement(FaReact),
+    date: "2022 - Present",
+  },
+  {
+    title: "Web Developer",
+    location: "Intelligeneer Solution, Melbourne, Australia",
+    description:
+      "Develop and maintain commercial websites and CMS-driven web solutions, with a focus on responsive front-end development, content integration, and scalable user experiences.",
     icon: React.createElement(FaComputer),
-    date: "2024 - Present",
+    date: "Jun 2024 - Present",
   },
 ] as const;
 
 export const projectsData = [
   {
-    title: "Adatop Website",
+    title: "RestoSuite",
     description:
-      "Built and deployed a company website with React and CMS integration. Focused on responsive UI, SEO, and easy content updates for non-technical staff.",
-    tags: ["React", "CMS", "JavaScript", "Responsive Design", "SEO"],
+      "Built a production-ready marketing website for a restaurant POS platform using Next.js, TypeScript, Tailwind CSS, and Cosmic CMS. Focused on responsive UI, structured content delivery, and SEO-conscious implementation.",
+    tags: ["Next.js", "TypeScript", "Tailwind CSS", "Cosmic CMS", "SEO"],
     imageUrl: "/adatopwebsite.png",
-    links: "https://adatop.com.au",
+    links: "https://www.restosuite.com.au/",
   },
   {
-    title: "CrwnClothing",
+    title: "Sydney West Worship Centre",
     description:
-      "I took this front-end site, turned it into full-stack and deployed it to AWS. Build a massive E-commerce app with React and Redux, Hooks, Stripewith JavaScript, and TypeScript. ",
-    tags: ["React", "Node.js", "MongoDB", "AWS", "Redux"],
+      "Developed the front end of a live community website from Figma designs and integrated Strapi CMS for dynamic content across About, Ministries, Events, and Contact pages.",
+    tags: ["Next.js", "React", "Strapi CMS", "Tailwind CSS", "Figma"],
+    imageUrl: "/earPhone.png",
+    links: "https://sydneywestworshipcentre.com/",
+  },
+  {
+    title: "CRWN Clothing",
+    description:
+      "Built a full-stack e-commerce application with authentication, Redux state management, Stripe payments, REST APIs, and AWS deployment.",
+    tags: ["React", "Node.js", "MongoDB", "Redux", "AWS"],
     imageUrl: "/crwnClothing.png",
     links: "https://github.com/asdfqweasd/CRWN_CLOTHING_Client",
-  },
-  {
-    title: "EarPhone",
-    description:
-      "This project demonstrates a specialised e-commerce platform for selling audio systems, headphones, and other electronic products. ",
-    tags: ["React", "TypeScript", "Hooks", "CSS", "Redux"],
-    imageUrl: "/earPhone.png",
-    links: "https://github.com/asdfqweasd/eCommerceEarPhone",
   },
 ];
 
@@ -99,18 +99,19 @@ export const skillsData = [
   "JavaScript",
   "TypeScript",
   "React",
-  "CMS",
   "Next.js",
   "Node.js",
-  "JAVA",
-  "Python",
-  "AWS",
-  "Git",
-  "Tailwind",
-  "MongoDB",
-  "Redux",
-  "GraphQL",
   "Express",
-  "PostgreSQL",
-  "Framer Motion",
+  "MongoDB",
+  "Java",
+  "Python",
+  "Tailwind CSS",
+  "Redux",
+  "Strapi CMS",
+  "Cosmic CMS",
+  "Shopify",
+  "AWS",
+  "Docker",
+  "Git",
+  "Figma",
 ] as const;

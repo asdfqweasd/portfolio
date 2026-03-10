@@ -60,13 +60,10 @@ export default function Intro() {
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        <span className="font-bold">Hello, I'm Zard.</span> I'm a{" "}
-        <span className="font-bold">full-stack developer</span> who{" "}
-        <span className="font-bold">
-          trying to find a front or full stack Job
-        </span>
-        . I enjoy building <span className="italic">sites & apps</span>. My
-        focus is <span className="underline">React (Next.js) and JAVA</span>.
+        <span className="font-bold">Hi, I'm Zard.</span> I'm a{" "}
+        <span className="font-bold">Full-Stack Developer</span> based in{" "}
+        <span className="font-bold">Melbourne</span>, building responsive web
+        applications with <span className="underline">React, Next.js, TypeScript, Node.js, and modern CMS platforms</span>.
       </motion.h1>
       <motion.div
         className="flex flex-col sm:flex-row items-center
