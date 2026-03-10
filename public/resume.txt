@@ -1,0 +1,67 @@
+Quan Zhang (Zard)
+Melbourne, VIC
+(+61) 0435 892 531 | quanzhang886@gmail.com
+GitHub: https://github.com/asdfqweasd
+Portfolio: https://portfolio-zard.vercel.app/
+Visa Status: Full Work Rights (Subclass 485, valid until 2028)
+
+PROFESSIONAL SUMMARY
+Full-Stack Developer with a Master of Information Technology from The University of Queensland and full Australian work rights. Experienced in building responsive, production-ready web applications using Next.js, React, TypeScript, Node.js, Express, MongoDB, and CMS platforms including Strapi and Cosmic CMS. Delivered commercial and volunteer-based projects from front-end implementation and CMS integration to full-stack e-commerce development. Strong in translating UI designs into scalable web interfaces and building clean, user-focused digital products. Currently seeking a Full-Stack Developer opportunity in Australia.
+
+TECHNICAL SKILLS
+Languages: JavaScript, TypeScript, Java, Python
+Front-End: React.js, Next.js, Redux, HTML5, CSS3, Tailwind CSS
+Back-End: Node.js, Express.js, MongoDB, REST APIs, JWT
+CMS / Platforms: Strapi CMS, Cosmic CMS, Shopify
+Cloud / Tools: AWS, Docker, Git, GitHub, GitHub Actions, Postman, Figma, Stripe
+
+PROFESSIONAL EXPERIENCE
+Web Developer | Intelligeneer Solution
+Melbourne, Australia | Jun 2024 – Present
+- Developed and maintained commercial web applications using Next.js, React, TypeScript, and Tailwind CSS.
+- Delivered production-ready websites and CMS-driven content solutions for Australian business use cases.
+- Built reusable front-end components and responsive layouts based on business requirements and design references.
+- Integrated CMS-managed content into live websites to support maintainability and efficient content updates.
+- Improved website usability, content structure, and SEO implementation to support better discoverability and user experience.
+- Collaborated with stakeholders on feature delivery, content updates, and front-end improvements.
+- Supported e-commerce and website maintenance tasks across business platforms including Shopify.
+
+Web Developer Intern | M.C.S
+Apr 2023 – Jul 2023
+- Supported eBay platform operations and contributed to a 20% increase in sales.
+- Automated product data updates using Jsoup, reducing manual effort and improving operational efficiency.
+
+SELECTED PROJECTS
+RestoSuite – Restaurant POS Marketing Website
+Role: Web Developer
+Stack: Next.js, TypeScript, Tailwind CSS, Cosmic CMS
+Website: https://www.restosuite.com.au/
+- Developed a production-ready marketing website for a restaurant POS platform covering features such as POS, KDS, QR ordering, and business analytics.
+- Built responsive, reusable front-end components and scalable page layouts to support product marketing and future content expansion.
+- Integrated Cosmic CMS content into the website to support efficient updates and content management workflows.
+- Improved SEO implementation through structured metadata, content hierarchy, and performance-conscious front-end development.
+- Supported onboarding-related content delivery including handbook PDFs, videos, and business information resources.
+
+Sydney West Worship Centre Website
+Role: Volunteer Front-End Developer
+Stack: Next.js, React, Strapi CMS, Tailwind CSS, Figma
+Website: https://sydneywestworshipcentre.com/
+- Built the front end of a live community website by translating Figma designs into responsive, production-ready web pages.
+- Independently implemented page development, Strapi content integration, and responsive adaptation across desktop and mobile devices.
+- Developed reusable UI sections and structured layouts to improve consistency, maintainability, and future scalability.
+- Integrated CMS-driven content for key pages including About, Ministries, Events, and Contact.
+- Worked closely with a UI designer to deliver a clean, accessible, and user-friendly website experience.
+
+CRWN Clothing – Full-Stack E-Commerce Application
+Role: Full-Stack Developer
+Stack: MongoDB, Express.js, React, Node.js, Redux, Stripe, AWS
+Repository: https://github.com/asdfqweasd/CRWN_CLOTHING_Client
+- Built a full-stack e-commerce application with user authentication, shopping cart functionality, product management, and Stripe payment integration.
+- Designed and implemented RESTful APIs to connect front-end and back-end services for a complete online shopping workflow.
+- Implemented Redux-based state management and persistent user sessions to improve usability and checkout flow.
+- Deployed the application to AWS with HTTPS support.
+
+EDUCATION
+Master of Information Technology
+The University of Queensland, Brisbane, QLD
+Feb 2020 – Dec 2022
