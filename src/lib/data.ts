@@ -72,7 +72,7 @@ export const projectsData = [
     description:
       "Built a production-ready marketing website for a restaurant POS platform using Next.js, TypeScript, Tailwind CSS, and Cosmic CMS. Focused on responsive UI, structured content delivery, and SEO-conscious implementation.",
     tags: ["Next.js", "TypeScript", "Tailwind CSS", "Cosmic CMS", "SEO"],
-    imageUrl: "/adatopwebsite.png",
+    imageUrl: "/restosuite.png",
     links: "https://www.restosuite.com.au/",
   },
   {
@@ -80,7 +80,7 @@ export const projectsData = [
     description:
       "Developed the front end of a live community website from Figma designs and integrated Strapi CMS for dynamic content across About, Ministries, Events, and Contact pages.",
     tags: ["Next.js", "React", "Strapi CMS", "Tailwind CSS", "Figma"],
-    imageUrl: "/earPhone.png",
+    imageUrl: "/sydneywestworshipcentre.png", 
     links: "https://sydneywestworshipcentre.com/",
   },
   {
